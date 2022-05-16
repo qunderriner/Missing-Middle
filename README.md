@@ -11,7 +11,7 @@ Analysis to better understand the current economic state and composition of Midd
 
 ## File Directory:
 
-**`Missing_middle_clean_pipeline`**: - Pipeline that creates charts that ended up in the final Missing Middle brief.
+**`Missing_middle_pipeline`**: - Pipeline that creates charts that ended up in the final Missing Middle brief.
 
 **`Data`**: - Folder 
 
